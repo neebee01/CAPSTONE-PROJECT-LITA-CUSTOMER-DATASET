@@ -172,8 +172,5 @@ GROUP BY
 ORDER BY 
   TotalRevenue
 
-Olubola Noiki
-10:58 PM (10 minutes ago)
-to me
 
-https://github.com/neebee01/CAPSTONE-PROJECT-LITA-CUSTOMER-DATASET/issues/1
+[CamScanner 11-13-2024 22.42.docx](https://github.com/user-attachments/files/17740026/CamScanner.11-13-2024.22.42.docx)
