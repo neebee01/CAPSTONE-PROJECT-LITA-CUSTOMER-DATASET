@@ -172,4 +172,8 @@ GROUP BY
 ORDER BY 
   TotalRevenue
 
-share_single_image_1731534215354.jpg
+Olubola Noiki
+10:58 PM (10 minutes ago)
+to me
+
+https://github.com/neebee01/CAPSTONE-PROJECT-LITA-CUSTOMER-DATASET/issues/1
