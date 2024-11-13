@@ -51,8 +51,6 @@ DATA SOURCES The primary source of Data used here is an Excel data file, CSV fil
 
 TECHNOLGY USED Excel sheet excel SUM and AVERAGE functions Excel pivot table SQL SERVER (SQL)
 
-POWER BI TOOLS USED Microsoft Excel [(Download here)] https://1drv.ms/x/c/45b106d15656cf28/EYXe7GV0cORIk3pJQxx0qfMBEP0vvfRZWVw60YwZD1uWkA?e=2UVmOq
-
 Data cleaning Data Visualization Calcutions Analysis SQL- (structured query language) for data querrying
 
 Github- for porfolio Building SKILLS
