@@ -172,4 +172,4 @@ GROUP BY
 ORDER BY 
   TotalRevenue
 
-![POWER BI VISUALIZATION](https://github.com/user-attachments/assets/4e415211-57aa-402a-8ab8-dc3df2580261)
+
