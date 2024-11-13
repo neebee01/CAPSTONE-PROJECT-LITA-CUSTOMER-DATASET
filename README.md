@@ -175,8 +175,10 @@ ORDER BY
 
 
 
+![SQL QUERY 10](https://github.com/user-attachments/assets/0a1e5293-4c6f-4a90-ad46-e96dc2522938)
 
 
 
 
+![SQL  QUERY 8](https://github.com/user-attachments/assets/fab06de2-a34d-4ec9-b2d6-75a690b083c7)
 
